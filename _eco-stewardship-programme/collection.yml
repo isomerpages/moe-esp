@@ -2,5 +2,6 @@ collections:
   eco-stewardship-programme:
     output: true
     order:
+      - Support provided to schools.md
       - The '4Cs'.md
       - Introduction to the ESP.md
