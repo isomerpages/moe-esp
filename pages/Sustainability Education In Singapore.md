@@ -16,7 +16,6 @@ sustainable development. Find out more about the Singapore Green Plan
 <a href="https://www.greenplan.gov.sg/" class="Hyperlink SCXW211500271 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u>
 </a>.&nbsp;&nbsp;</p>
 <p></p>
-<p></p>
 <p><strong>How Does Sustainability Education Support the Singapore Green Plan?&nbsp;</strong>
 </p>
 <p>Sustainability education is paramount in shaping environmentally conscious
