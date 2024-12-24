@@ -17,7 +17,7 @@ sustainable development. Find out more about the Singapore Green Plan
 </a>.&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
-<p><strong>How Does Sustainability Education Support The Singapore Green Plan?&nbsp;</strong>
+<p><strong>How Does Sustainability Education Support the Singapore Green Plan?&nbsp;</strong>
 </p>
 <p>Sustainability education is paramount in shaping environmentally conscious
 citizens for Singapore's future.&nbsp; As our nation and the world face
