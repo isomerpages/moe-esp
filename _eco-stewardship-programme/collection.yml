@@ -2,7 +2,7 @@ collections:
   eco-stewardship-programme:
     output: true
     order:
-      - Introduction to the ESP.md
+      - Introduction to the Eco Stewardship Programme (ESP).md
       - The '4Cs'.md
       - Support provided to schools.md
       - Timeline and key milestones.md
