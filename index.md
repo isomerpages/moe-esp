@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is a notification banner.
 sections:
   - hero:
       title: MOE Eco-Stewardship Programme
@@ -13,7 +13,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Importance of Sustainability Education
+        - title: Sustainability Education
           description: ""
           url: https://google.com
         - title: Eco-Stewardship Programme (ESP)
