@@ -5,30 +5,21 @@ variant: tiptap
 description: ""
 ---
 <p>Schools have the autonomy to progressively strengthen their sustainability
-efforts while supplemented by some aspects of the 4Cs which follow centrally
-planned timelines (e.g. subject syllabus changes; SolarNova programme;
-campus enhancements).</p>
+efforts while supplemented with centrally planned programmes which impacts
+the different aspects of the 4Cs (e.g. subject syllabus updates; SolarNova
+programme; campus enhancements).</p>
 <p></p>
 <p>To support schools in furthering sustainability education, schools are
 provided with:&nbsp;</p>
 <ul>
 <li>
-<p>Resources for planning</p>
+<p>Planning and implementation resources</p>
 </li>
-</ul>
-<ul>
 <li>
-<p>Teaching and learning materials</p>
+<p>Teaching and learning materials for teachers and students</p>
 </li>
-</ul>
-<ul>
 <li>
-<p>Funding</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Professional development opportunities</p>
+<p>Professional development opportunities for staff</p>
 </li>
 </ul>
 <p></p>
