@@ -17,9 +17,8 @@ become second nature.</p>
 Education curriculum have been enhanced to strengthen the teaching and
 learning of sustainability. Learning resources that feature campus sustainability
 initiatives and lived experiences in schools have been developed to make
-learning more authentic.&nbsp;
-<br>
-</p>
+learning more authentic.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Campus:</strong> School campuses have been progressively enhanced
