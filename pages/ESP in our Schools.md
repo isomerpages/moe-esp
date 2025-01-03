@@ -38,7 +38,7 @@ news articles below.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>ESP in the news:</strong>
+<p><strong>Eco Stewardship Programme in the news:</strong>
 </p>
 <ul>
 <li>
