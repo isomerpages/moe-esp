@@ -4,11 +4,11 @@ permalink: /how-are-schools-supported-to-implement-the-esp/
 variant: tiptap
 description: ""
 ---
+<h4>Support for Schools</h4>
 <p>Schools have the autonomy to progressively strengthen their sustainability
 efforts while supplemented with centrally planned programmes aimed at improving
 various aspects of the 4Cs (e.g. subject syllabus updates; SolarNova programme;
 campus enhancements).</p>
-<p></p>
 <p>To support schools in furthering sustainability education, schools are
 provided with:&nbsp;</p>
 <ul>
