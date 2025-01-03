@@ -1,6 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Singapore Green Plan
-    url: /sgp
+    url: /sgp/
   - title: Eco Stewardship Programme
     collection: eco-stewardship-programme
+  - title: Our Schools
+    url: /our-schools/
