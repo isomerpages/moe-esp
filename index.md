@@ -8,6 +8,8 @@ notification: ""
 sections:
   - hero:
       title: MOE Eco Stewardship Programme
-      background: /images/hero-banner.png
+      background: /images/Photos from Design Office,
+        CEG/Stock___2023___Mee_Toh_School_25.jpg
       variant: center
+      subtitle: Nurturing Stewards of the Environment
 ---
