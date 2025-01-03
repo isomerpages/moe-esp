@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: MOE Eco Stewardship Programme
+      title: Eco Stewardship Programme
       background: /images/Photos from Design Office,
         CEG/Stock___2023___Mee_Toh_School_25.jpg
       variant: center
