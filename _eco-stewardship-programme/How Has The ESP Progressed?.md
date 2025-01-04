@@ -22,8 +22,8 @@ description: ""
 </ul>
 <ul>
 <li>
-<p>MOE works with Four Pilot Schools to develop best practices for schools
-to further Sustainability Education&nbsp;</p>
+<p>MOE works with four Pilot Schools to develop best practices for sustainability
+education&nbsp;</p>
 </li>
 </ul>
 <ul>
@@ -47,7 +47,7 @@ schools&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>1<sup>st</sup> ESP Networking Session is conducted&nbsp;</p>
+<p>1<sup>st</sup> ESP Networking Session for teachers is conducted&nbsp;</p>
 </li>
 </ul>
 <ul>
@@ -69,8 +69,8 @@ schools&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Food Sustainability spotlighted from 2023 – 2024, with resources on Food
-Sustainability education provided to schools&nbsp;&nbsp;</p>
+<p>Food sustainability spotlighted, with resources on food sustainability
+education provided to schools&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
@@ -87,7 +87,11 @@ Sustainability education provided to schools&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>&nbsp;</p>
+<p>Spotlight on food sustainability continues</p>
+</li>
+<li>
+<p>Grant launched for schools to develop environmental hubs for environmental
+education</p>
 </li>
 </ul>
 </td>
@@ -99,19 +103,13 @@ Sustainability education provided to schools&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Energy Sustainability spotlighted from 2025 – 2026, with resources on
-Energy Sustainability education provided to schools&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>3<sup>rd</sup> ESP Networking Session to be conducted&nbsp;</p>
+<p>Energy sustainability spotlighted, with resources on energy sustainability
+education provided to schools&nbsp;</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><em>(to include timeline; once the details are agreed, to tap on temp staff’s assistance to draw a road map)&nbsp;</em>
 </p>
