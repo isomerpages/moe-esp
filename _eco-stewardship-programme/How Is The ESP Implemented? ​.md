@@ -28,7 +28,7 @@ become second nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Curriculum:</strong> Science, Humanities and Food &amp; Consumer
+<p><strong>Curriculum:</strong> The Science, Humanities and Food &amp; Consumer
 Education curriculum have been enhanced to strengthen the teaching and
 learning of sustainability. Learning resources that feature campus sustainability
 initiatives and lived experiences in schools have been developed to make
@@ -57,10 +57,10 @@ smart meters).&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Culture:</strong> Students learn daily sustainability habits in
-schools which they should transfer to other contexts such as the home front. 
+schools which they transfer to other contexts such as the home front. 
 Key student development experiences (e.g. Co-Curricular Activities and
 Values in Action programmes) are enhanced to strengthen students’ awareness
-and commitment to sustainability practices and constructive causes.  Schools
+and commitment to sustainability practices and constructive causes. Schools
 also strengthen the implementation of relevant school policies to make
 sustainable living a daily lived experience.<em> </em>
 </p>
