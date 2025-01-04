@@ -45,4 +45,5 @@ and environmental stewardship.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Photos from CEG, MOE</em>
+</p>
