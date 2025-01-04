@@ -4,14 +4,12 @@ permalink: /our-schools/
 variant: tiptap
 description: ""
 ---
-<p><strong>What does the Eco Stewardship Programme look like in schools?</strong>
-</p>
+<h4>What does the Eco Stewardship Programme look like in schools?</h4>
 <p>While all schools are already onboard the ESP, each school’s ESP journey
 is unique.&nbsp; This contributes to a rich educational landscape that
 offers students diverse opportunities to learn about sustainability. Explore
 how schools are nurturing stewards of the environment through this <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" class="Hyperlink SCXW81721873 BCX8" rel="noreferrer noopener" target="_blank"><u>interactive website</u></a> and
 news articles below.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,17 +19,19 @@ news articles below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Tampines_Secondary_School_1.jpg">
-</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Commonwealth_Secondary_School_230824_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_20.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Commonwealth_Secondary_School_230824_22.jpg">
 </div>
@@ -40,11 +40,10 @@ news articles below.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Eco Stewardship Programme in the news:</strong>
-</p>
+<h4>Eco Stewardship Programme in the news:</h4>
 <ul>
 <li>
-<p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award </a>(The
+<p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award<u> </u></a>(The
 Straits Times, May 2024)</p>
 </li>
 <li>
