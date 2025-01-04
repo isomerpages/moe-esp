@@ -4,7 +4,7 @@ permalink: /sgp/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What Is The Singapore Green Plan 2030?&nbsp;</strong></h4>
+<h4>What Is The Singapore Green Plan 2030?&nbsp;</h4>
 <p>Climate change is an existential threat to nations around the world. Singapore,
 as a low-lying island state, is particularly vulnerable. While sustainable
 development is not new to us, there are renewed aspirations to secure a
@@ -12,7 +12,7 @@ sustainable Singapore for future generations and make that a defining characteri
 of our country.&nbsp;The <strong>Singapore Green Plan 2030</strong> is a
 whole-of-nation movement to advance Singapore’s national agenda on sustainable
 development. Find out more about the Singapore Green Plan <a href="https://www.greenplan.gov.sg/" class="Hyperlink SCXW211500271 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a>.&nbsp;&nbsp;</p>
-<h4><strong>How Does Sustainability Education Support The Singapore Green Plan?&nbsp;</strong></h4>
+<h4>How Does Sustainability Education Support The Singapore Green Plan?&nbsp;</h4>
 <p>Sustainability education is paramount in shaping environmentally conscious
 citizens for Singapore's future.&nbsp;As our nation and the world face
 increasing ecological challenges, equipping students with the relevant
