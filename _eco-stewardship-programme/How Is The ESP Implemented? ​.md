@@ -88,38 +88,5 @@ awareness and understanding of future “green jobs”.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<ul>
-<li>
-<p><strong>Curriculum:</strong> Science, Humanities and Food &amp; Consumer
-Education curriculum have been enhanced to strengthen the teaching and
-learning of sustainability. Learning resources that feature campus sustainability
-initiatives and lived experiences in schools have been developed to make
-learning more authentic.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Campus:</strong> School campuses have been progressively enhanced
-with sustainability features (e.g. solar panel deployment, LED lights,
-smart meters).&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p><strong>Culture:</strong> Students learn daily sustainability habits in
-schools which they should transfer to other contexts such as the home front. 
-Key student development experiences (e.g. Co-Curricular Activities and
-Values in Action programmes) are enhanced to strengthen students’ awareness
-and commitment to sustainability practices and constructive causes.  Schools
-also strengthen the implementation of relevant school policies to make
-sustainable living a daily lived experience.<em> </em>
+<p><em>Photos from CEG, MOE</em>
 </p>
-<p></p>
-</li>
-<li>
-<p><strong>Community:</strong> Schools are encouraged work with partners to
-offer environment-related learning and volunteering opportunities to their
-students.&nbsp; Partnerships with agencies and industries strengthen students’
-awareness and understanding of future “green jobs”.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<p></p>
