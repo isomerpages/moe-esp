@@ -6,10 +6,10 @@ description: ""
 ---
 <h4>What does the Eco Stewardship Programme look like in schools?</h4>
 <p>While all schools are already onboard the ESP, each school’s ESP journey
-is unique.&nbsp; This contributes to a rich educational landscape that
-offers students diverse opportunities to learn about sustainability. Explore
-how schools are nurturing stewards of the environment through this <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" class="Hyperlink SCXW81721873 BCX8" rel="noreferrer noopener" target="_blank"><u>interactive website</u></a> and
-news articles below.</p>
+is unique.&nbsp;This contributes to a rich educational landscape that offers
+students diverse opportunities to learn about sustainability. Explore how
+schools are nurturing stewards of the environment through this <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" class="Hyperlink SCXW81721873 BCX8" rel="noreferrer noopener" target="_blank"><u>interactive website</u></a> and
+the news articles linked below.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
