@@ -39,7 +39,8 @@ the news articles linked below.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Photos from CEG, MOE</em>
+</p>
 <h4>Eco Stewardship Programme in the news:</h4>
 <ul>
 <li>
