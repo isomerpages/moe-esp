@@ -22,17 +22,19 @@ news articles below.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Tampines_Secondary_School_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Tampines_Secondary_School_1.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_20.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_20.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Commonwealth_Secondary_School_230824_22.jpg">
+</div>
 </th>
 </tr>
 </tbody>
