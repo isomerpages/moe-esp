@@ -12,6 +12,10 @@ classroom learning with their lived experiences, leveraging hands-on and
 applied learning.&nbsp; By integrating sustainability into daily school
 life, the programme helps students develop good environmental habits that
 become second nature.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4Cs.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,3 +94,4 @@ awareness and understanding of future “green jobs”.&nbsp;&nbsp;</p>
 </table>
 <p><em>Photos from CEG, MOE</em>
 </p>
+<p></p>
