@@ -60,7 +60,11 @@ May 2023)</p>
 Apr 2023)</p>
 </li>
 <li>
-<p><a href="https://www.straitstimes.com/singapore/parenting-education/yu-neng-primary-5-pupils-plant-rice-to-learn-about-food-waste-and-grow-resilience" rel="noopener nofollow" target="_blank">Yu Neng Primary pupils learn rice is not just from supermarket shelves</a> (The
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/going-green-environmental-sustainability-a-big-part-of-life-in-schools" rel="noopener nofollow" target="_blank">Going green: Environmental sustainability a big part of life in schools </a>(The
+Straits Times, Apr 2022)</p>
+</li>
+<li>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/yu-neng-primary-5-pupils-plant-rice-to-learn-about-food-waste-and-grow-resilience" rel="noopener nofollow" target="_blank">Yu Neng Primary pupils learn rice is not just from supermarket shelves </a>(The
 Straits Times, Feb 2022)</p>
 </li>
 </ul>
