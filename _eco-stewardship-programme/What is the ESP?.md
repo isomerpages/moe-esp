@@ -4,7 +4,7 @@ permalink: /what-is-the-esp/
 variant: tiptap
 description: ""
 ---
-<h4>What is the ESP?</h4>
+<h4>MOE's Eco Stewardship Programme</h4>
 <p>The Eco Stewardship Programme (ESP) forms a key part of the Singapore
 Green Plan 2030. The ESP builds on our schools’ experience of environmental
 education over the years and goes further by adopting a whole-school approach
