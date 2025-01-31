@@ -2,7 +2,7 @@ collections:
   eco-stewardship-programme:
     output: true
     order:
-      - MOE's Eco Stewardship Programme (ESP).md
+      - What is the ESP?.md
       - How is the ESP implemented? ​.md
       - How are schools supported?.md
       - How has the ESP progressed?.md
