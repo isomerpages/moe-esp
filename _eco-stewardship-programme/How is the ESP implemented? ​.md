@@ -64,7 +64,7 @@ smart meters).&nbsp;</p>
 schools which they transfer to other contexts such as the home front. 
 Key student development experiences (e.g. Co-Curricular Activities and
 Values in Action programmes) are enhanced to strengthen students’ awareness
-and commitment to sustainability practices and constructive causes.  Schools
+and commitment to sustainability practices and constructive causes. Schools
 also strengthen the implementation of relevant school policies to make
 sustainable living a daily lived experience.<em> </em>
 </p>
