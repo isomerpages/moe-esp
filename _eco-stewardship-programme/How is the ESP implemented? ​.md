@@ -78,10 +78,10 @@ sustainable living a daily lived experience.<em> </em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Community:</strong> Schools are encouraged work with partners to
-offer environment-related learning and volunteering opportunities to their
-students.&nbsp; Partnerships with agencies and industries strengthen students’
-awareness and understanding of future “green jobs”.&nbsp;&nbsp;</p>
+<p><strong>Community:</strong> Schools are encouraged to work with partners
+to offer environment-related learning and volunteering opportunities to
+their students.&nbsp; Partnerships with agencies and industries strengthen
+students’ awareness and understanding of future “green jobs”.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
