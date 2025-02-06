@@ -9,6 +9,9 @@ sections:
   - hero:
       title: Eco Stewardship Programme
       background: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_12.jpg
-      variant: center
+      variant: floating
       subtitle: Nurturing Stewards of the Environment
+      backgroundColor: gray
+      size: sm
+      alignment: left
 ---
