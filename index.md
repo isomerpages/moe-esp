@@ -8,8 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Eco Stewardship Programme
-      background: /images/Photos from Design Office,
-        CEG/Stock___2023___Mee_Toh_School_25.jpg
+      background: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_12.jpg
       variant: center
       subtitle: Nurturing Stewards of the Environment
 ---
