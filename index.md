@@ -8,8 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Eco Stewardship Programme
-      background: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_12.jpg
-      variant: floating
+      background: /images/Photos from Design Office,
+        CEG/junior_osd_fernvaleprimaryschool_cruzjohndavidsonpascua_1___jie_han_jaron_yap.jpg
+      variant: center
       subtitle: Nurturing Stewards of the Environment
       backgroundColor: gray
       size: sm
