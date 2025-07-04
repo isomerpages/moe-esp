@@ -108,6 +108,9 @@ education</p>
 <p>Energy sustainability is spotlighted, with resources on energy sustainability
 education provided to schools&nbsp;</p>
 </li>
+<li>
+<p>3<sup>rd</sup> ESP Networking Session is conducted</p>
+</li>
 </ul>
 </td>
 </tr>
