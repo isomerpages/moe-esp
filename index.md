@@ -22,7 +22,7 @@ sections:
         teachers, and schools to learn and actively contribute to a sustainable
         future.
       button: More about the ESP
-      url: "-"
+      url: /what-is-the-esp/
   - infopic:
       title: The 4Cs Framework
       subtitle: Our Approach
@@ -34,7 +34,7 @@ sections:
       image: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_3.jpg
       alt: Image alt text
   - infopic:
-      title: Spotlighting Energy Sustainaiblity
+      title: Spotlighting Energy Sustainability
       subtitle: Our Context
       id: infopic
       description: For students to better understand our local context, the ESP uses
