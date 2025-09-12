@@ -89,12 +89,12 @@ relevant school policies to make sustainable living a daily lived experience.</p
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Recycling" src="/images/Culture and Community/Stock___2023___Tampines_Secondary_School_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Commonwealth_Secondary_School_230824_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Commonwealth_Secondary_School_230824_53.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Stock___2023___Mee_Toh_School_4.jpg">
 </div>
 </td>
 </tr>
@@ -121,7 +121,7 @@ of future “green jobs".</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/20240404_MOE___CCKSS_Visit_028.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Staff_PM_MarsilingSecondary_KaiQing_3___Chua_Kai_Qing.jpg">
 </div>
 </td>
 </tr>
