@@ -1,5 +1,5 @@
 collections:
-  the-4cs-framework:
+  the-4-cs-framework:
     output: true
     order:
       - How is the ESP implemented? ​.md
