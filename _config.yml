@@ -1,6 +1,6 @@
 title: MOE Eco Stewardship Programme
 url: https://esp.moe.gov.sg
-favicon: /images/moe_crest___without_words_2.png
+favicon: /images/General/moe_crest___without_words_2.png
 colors:
   primary-color: "#61c0a0"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3rl3qlz2k2f27.amplifyapp.com
 prod: https://master.d34wvk1bs3ftp1.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
-is_government: false
+shareicon: /images/Curriculum/junior_osd_fernvaleprimaryschool_cruzjohndavidsonpascua_1___jie_han_jaron_yap.jpg
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
