@@ -8,8 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Eco Stewardship Programme
-      background: /images/Photos from Design Office,
-        CEG/junior_osd_fernvaleprimaryschool_cruzjohndavidsonpascua_1___jie_han_jaron_yap.jpg
+      background: /images/Curriculum/junior_osd_fernvaleprimaryschool_cruzjohndavidsonpascua_1___jie_han_jaron_yap.jpg
       variant: center
       backgroundColor: gray
       size: sm
@@ -31,7 +30,7 @@ sections:
         towards environmental sustainability through the 4Cs Framework.
       button: Find out more
       url: /4cs/
-      image: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_3.jpg
+      image: /images/Curriculum/Stock___2024___Si_Ling_Pri_3.jpg
       alt: Sustainability concept store
   - infopic:
       title: Singapore's Sustainability Challenges
@@ -42,8 +41,7 @@ sections:
         Singapore's Energy Story.
       button: Our ENergy Story
       url: https://www.ema.gov.sg/our-energy-story
-      image: /images/Photos from Design Office,
-        CEG/Stock___2023___Tampines_Secondary_School_2.jpg
+      image: /images/Campus/Stock___2023___Tampines_Secondary_School_2.jpg
       alt: Solar Educational Kit
   - infopic:
       title: "From ABC to ECO: Growing the Eco Stewards of Tomorrow"
@@ -55,6 +53,5 @@ sections:
       button: The ESP in SCHOOLS
       url: /our-stories/
       alt: Image alt text
-      image: /images/Photos from Design Office,
-        CEG/Stock___2023___Mee_Toh_School_3.jpg
+      image: /images/Culture and Community/Stock___2023___Mee_Toh_School_3.jpg
 ---
