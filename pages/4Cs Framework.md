@@ -60,13 +60,11 @@ and applied learning.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Forest in a school" src="/images/Campus/Commonwealth_Secondary_School_230824_51.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental Hub" src="/images/Campus/Commonwealth_Secondary_School_230824_44.jpg">
 </div>
@@ -91,10 +89,14 @@ relevant school policies to make sustainable living a daily lived experience.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recycling" src="/images/Culture and Community/Stock___2023___Tampines_Secondary_School_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Commonwealth_Secondary_School_230824_53.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -114,10 +116,14 @@ of future “green jobs".</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Stock___2023___Mee_Toh_School_20.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/20240404_MOE___CCKSS_Visit_028.jpg">
+</div>
 </td>
 </tr>
 </tbody>
