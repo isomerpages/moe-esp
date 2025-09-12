@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>MOE's Eco Stewardship Programme</h4>
 <p>The Eco Stewardship Programme (ESP) forms a key part of the Singapore
-Green Plan 2030. The ESP builds on our schools’ experience of environmental
+Green Plan 2030. It builds on our schools’ experience of environmental
 education over the years and goes further by adopting a whole-school approach
 to nurturing stewards of the environment.</p>
 <p>From primary to pre-university levels, the ESP inspires students, teachers,
