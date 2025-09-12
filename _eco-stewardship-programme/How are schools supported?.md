@@ -21,5 +21,8 @@ provided with:&nbsp;</p>
 <li>
 <p>Professional development opportunities for staff</p>
 </li>
+<li>
+<p>Networking opportunities for schools to share good practices</p>
+</li>
 </ul>
 <p></p>
