@@ -8,9 +8,8 @@ description: ""
 <p>While all schools are already onboard the Eco Stewardship Programme (ESP),
 each school’s ESP journey is unique.&nbsp;This contributes to a rich educational
 landscape that offers students diverse opportunities to learn about sustainability.
-Explore how schools are nurturing stewards of the environment through this
-<a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" class="Hyperlink SCXW81721873 BCX8" rel="noreferrer noopener" target="_blank"><u>interactive story</u>
-</a>on the MOE Schoolbag Website and the news articles linked below.</p>
+Explore how schools are nurturing stewards of the environment on the
+<a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" rel="noopener nofollow" target="_blank">MOE Schoolbag Website</a>and the news articles linked below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Food digester" src="/images/Culture and Community/Stock___2023___Mee_Toh_School_8.jpg">
 </div>
