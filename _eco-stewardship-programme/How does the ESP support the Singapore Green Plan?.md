@@ -7,10 +7,9 @@ description: ""
 <h4>The Singapore Green Plan 2030</h4>
 <p>Climate change is an existential threat to nations around the world. Singapore,
 as a low-lying island state, is particularly vulnerable. While sustainable
-development is not new to us, there are renewed aspirations to secure a
-sustainable Singapore for future generations and make that a defining characteristic
-of our country.&nbsp;The <strong>Singapore Green Plan 2030</strong> is a
-whole-of-nation movement to advance Singapore’s national agenda on sustainable
+development is not new to us, there are <strong>renewed aspirations to secure a sustainable Singapore for future generations</strong> and
+make that a defining characteristic of our country.&nbsp;The <strong>Singapore Green Plan 2030</strong> is
+a whole-of-nation movement to advance Singapore’s national agenda on sustainable
 development. Find out more about the Singapore Green Plan <a href="https://www.greenplan.gov.sg/" class="Hyperlink SCXW211500271 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a>.&nbsp;&nbsp;</p>
 <h4>Sustainability Education and the Singapore Green Plan&nbsp;</h4>
 <p>Sustainability education is paramount in shaping environmentally conscious
