@@ -37,7 +37,7 @@ sections:
       subtitle: Our Context
       id: infopic
       description: For students to appreciate local context, the ESP uses Singapore's
-        sustainability challenges as themes. The current spotlight is on
+        sustainability challenges as themes. We are currently spotlighting
         Singapore's Energy Story.
       button: Our ENergy Story
       url: https://www.ema.gov.sg/our-energy-story
