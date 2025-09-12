@@ -53,7 +53,7 @@ sections:
         unique. This contributes to a rich educational landscape with diverse
         opportunities.
       button: The ESP in SCHOOLS
-      url: /ourstories/
+      url: /our-stories/
       alt: Image alt text
       image: /images/Photos from Design Office,
         CEG/Stock___2023___Mee_Toh_School_3.jpg
