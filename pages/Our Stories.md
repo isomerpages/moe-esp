@@ -10,37 +10,12 @@ each school’s ESP journey is unique.&nbsp;This contributes to a rich education
 landscape that offers students diverse opportunities to learn about sustainability.
 Explore how schools are nurturing stewards of the environment through this
 <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" class="Hyperlink SCXW81721873 BCX8" rel="noreferrer noopener" target="_blank"><u>interactive story</u>
-</a>on MOE Schoolbag and the news articles linked below.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</a>on the MOE Schoolbag Website and the news articles linked below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Commonwealth_Secondary_School_230824_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Food digester" src="/images/Culture and Community/Stock___2023___Mee_Toh_School_8.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_20.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Commonwealth_Secondary_School_230824_22.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><em>Photos from CEG, MOE</em>
+<p><em>Photo from CEG, MOE</em>
 </p>
 <h4>News and Media Features:</h4>
 <ul>
