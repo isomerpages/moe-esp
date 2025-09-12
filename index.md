@@ -30,27 +30,31 @@ sections:
       description: The ESP's strength lies in its holistic whole-school approach
         towards environmental sustainability through the 4Cs Framework.
       button: Find out more
-      url: "-"
+      url: /4cs/
       image: /images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_3.jpg
-      alt: Image alt text
+      alt: Sustainability concept store
   - infopic:
-      title: Spotlighting Energy Sustainability
+      title: Singapore's Sustainability Challenges
       subtitle: Our Context
       id: infopic
-      description: For students to better understand our local context, the ESP uses
-        Singapore's sustainability challenges as themes.
-      button: Our Energy Story
+      description: For students to appreciate local context, the ESP uses Singapore's
+        sustainability challenges as themes. The current spotlight is on
+        Singapore's Energy Story.
+      button: Our ENergy Story
       url: https://www.ema.gov.sg/our-energy-story
       image: /images/Photos from Design Office,
         CEG/Stock___2023___Tampines_Secondary_School_2.jpg
-      alt: Image alt text
+      alt: Solar Educational Kit
   - infopic:
       title: "From ABC to ECO: Growing the Eco Stewards of Tomorrow"
       subtitle: Our stories
       id: infopic
-      description: While all schools are already onboard the ESP, each school’s
-        journey is unique.
-      button: Explore schools
-      url: https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/
+      description: While all schools are on board the ESP, each school’s journey is
+        unique. This contributes to a rich educational landscape with diverse
+        opportunities.
+      button: The ESP in SCHOOLS
+      url: /ourstories/
       alt: Image alt text
+      image: /images/Photos from Design Office,
+        CEG/Stock___2023___Mee_Toh_School_3.jpg
 ---
