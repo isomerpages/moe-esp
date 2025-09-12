@@ -17,46 +17,6 @@ become second nature.</p>
 </div>
 <p><em>Photos by CEG, MOE</em>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Curriculum</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Science, Humanities, Food &amp; Consumer Education, Outdoor Education
-and Character &amp; Citizenship Education curricula have been enhanced
-to strengthen the teaching and learning of sustainability. Learning resources
-that feature campus sustainability initiatives and lived experiences in
-schools have been developed to make learning more authentic.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Water purification" src="/images/Curriculum/Stock___2024___Si_Ling_Pri_14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Solar Edu Kit" src="/images/Campus/Commonwealth_Secondary_School_230824_39.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>Photos by CEG, MOE</em>
-</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h4>Curriculum</h4>
 <p>The Science, Humanities, Food &amp; Consumer Education, Outdoor Education
 and Character &amp; Citizenship Education curricula have been enhanced
@@ -77,7 +37,7 @@ schools have been developed to make learning more authentic.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Reusing plastics" src="/images/Curriculum/Stock___2023___Tampines_Secondary_School_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Recycling plastics" src="/images/Curriculum/Stock___2023___Tampines_Secondary_School_8.jpg">
 </div>
 </td>
 </tr>
