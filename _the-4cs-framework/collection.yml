@@ -2,4 +2,5 @@ collections:
   the-4cs-framework:
     output: true
     order:
+      - Campus.md
       - How is the ESP implemented? ​.md
