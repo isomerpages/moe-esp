@@ -24,6 +24,8 @@ a deep understanding of environmental interdependencies, cultivate responsible
 behaviours, and inspire innovative solutions for a sustainable future.&nbsp;By <strong>integrating sustainability concepts across curricula and daily school operations</strong>,
 we can create a holistic learning environment that nurtures eco-literacy
 and environmental stewardship.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Culture and Community/Stock___2023___Tampines_Secondary_School_13.jpg">
+</div>
 <p><em>Photo from CEG, MOE</em>
 </p>
