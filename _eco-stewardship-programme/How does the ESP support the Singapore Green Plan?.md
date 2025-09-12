@@ -24,27 +24,6 @@ a deep understanding of environmental interdependencies, cultivate responsible
 behaviours, and inspire innovative solutions for a sustainable future.&nbsp;By <strong>integrating sustainability concepts across curricula and daily school operations</strong>,
 we can create a holistic learning environment that nurtures eco-literacy
 and environmental stewardship.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2024___Si_Ling_Pri_12.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Photos from Design Office, CEG/Stock___2023___Mee_Toh_School_7.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><em>Photos from CEG, MOE</em>
+<p><em>Photo from CEG, MOE</em>
 </p>
