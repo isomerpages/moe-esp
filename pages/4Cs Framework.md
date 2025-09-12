@@ -4,7 +4,7 @@ permalink: /4cs/
 variant: tiptap
 description: ""
 ---
-<h2>The 4Cs Framework</h2>
+<h4>The 4Cs Framework</h4>
 <p>The ESP's strength lies in its holistic whole-school approach towards
 environmental sustainability through the <strong>4Cs Framework: Curriculum, Campus, Culture, and Community.</strong>&nbsp;
 This comprehensive and integrated approach enables students to connect
