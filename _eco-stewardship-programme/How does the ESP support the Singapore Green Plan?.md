@@ -16,9 +16,9 @@ development. Find out more about the Singapore Green Plan <a href="https://www.g
 <p>Sustainability education is paramount in shaping environmentally conscious
 citizens for Singapore's future.&nbsp;As our nation and the world face
 increasing ecological challenges, it is crucial to equip our students with
-the relevant knowledge, skills and dispositions, including fostering in
-them <strong>a sense of agency and hope for the future,</strong> to address
-these issues.&nbsp;&nbsp;&nbsp;</p>
+the r<strong>elevant knowledge, skills and dispositions</strong>, including
+fostering in them <strong>a sense of agency and hope for the future,</strong> to
+address these issues.&nbsp;&nbsp;&nbsp;</p>
 <p>A well-structured Eco Stewardship Programme in our schools can foster
 a deep understanding of environmental interdependencies, cultivate responsible
 behaviours, and inspire innovative solutions for a sustainable future.&nbsp;By <strong>integrating sustainability concepts across curricula and daily school operations</strong>,
