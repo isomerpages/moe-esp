@@ -8,15 +8,13 @@ description: ""
 <p>The ESP's strength lies in its holistic whole-school approach towards
 environmental sustainability through the <strong>4Cs Framework: Curriculum, Campus, Culture, and Community.</strong>&nbsp;
 This comprehensive and integrated approach enables students to connect
-classroom learning with their lived experiences, leveraging hands-on and
-applied learning.&nbsp; By integrating sustainability into daily school
-life, the programme helps students develop good environmental habits that
-become second nature.</p>
+classroom learning with their lived experiences through hands-on and applied
+learning.&nbsp; By integrating sustainability into daily school life, the
+programme helps students develop good environmental habits that become
+second nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General/4Cs.jpg">
 </div>
-<p><em>Photos by CEG, MOE</em>
-</p>
 <h4>Curriculum</h4>
 <p>The Science, Humanities, Food &amp; Consumer Education, Outdoor Education
 and Character &amp; Citizenship Education curricula have been enhanced
@@ -43,14 +41,11 @@ schools have been developed to make learning more authentic.</p>
 </tr>
 </tbody>
 </table>
-<p><em>Photos by CEG, MOE</em>
-</p>
 <h4>Campus</h4>
 <p>Our school campuses have been progressively enhanced with sustainability
-features (e.g. solar panel deploymen, LED lights, smart meters, environmental
-hubs). Schools have tapped on sustainability infrastructure to connect
-classroom learning with students' lived experiences, leveraging hands-on
-and applied learning.&nbsp;</p>
+features (e.g. solar panel deployment, LED lights, smart meters, environmental
+hubs). Schools have tapped on sustainability infrastructure to bridge classroom
+learning and students' lived experiences through practical, hands-on learning.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,12 +66,10 @@ and applied learning.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><em>Photos by CEG, MOE</em>
-</p>
 <h4>Culture</h4>
-<p>Students learn daily sustainability habits in schools which they transfer
-to other contexts such as the home front.  Key student development experiences
-(e.g. Co-Curricular Activities and Values in Action programmes) are enhanced
+<p>Students learn daily sustainability habits at school and apply them in
+other contexts, such as at home. Key student development experiences (e.g.
+Co-Curricular Activities and Values in Action programmes) are enhanced
 to strengthen students’ awareness and commitment to sustainability practices
 and constructive causes. Schools also strengthen the implementation of
 relevant school policies to make sustainable living a daily lived experience.</p>
@@ -100,13 +93,11 @@ relevant school policies to make sustainable living a daily lived experience.</p
 </tr>
 </tbody>
 </table>
-<p><em>Photos from CEG, MOE</em>
-</p>
 <h4>Community</h4>
 <p>Schools are encouraged to work with partners to offer environment-related
 learning and volunteering opportunities for their students.&nbsp; Partnerships
 with agencies and industries strengthen students’ awareness and understanding
-of future “green jobs".</p>
+of future green jobs.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -127,5 +118,4 @@ of future “green jobs".</p>
 </tr>
 </tbody>
 </table>
-<p><em>Photos from CEG, MOE</em>
-</p>
+<p></p>
