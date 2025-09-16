@@ -105,7 +105,7 @@ education</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Energy sustainability is spotlighted, with resources on energy sustainability
+<p>Spotlight on Energy sustainability, with resources on energy sustainability
 education provided to schools&nbsp;</p>
 </li>
 <li>
