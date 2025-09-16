@@ -5,16 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h4>What does the Eco Stewardship Programme look like in schools?</h4>
-<p>While all schools are already onboard the Eco Stewardship Programme (ESP),
+<p>While all schools are already on board the Eco Stewardship Programme (ESP),
 each school’s ESP journey is unique.&nbsp;This contributes to a rich educational
 landscape that offers students diverse opportunities to learn about sustainability.
-Explore how schools are nurturing stewards of the environment on the
-<a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" rel="noopener nofollow" target="_blank">MOE Schoolbag Website</a>and the news articles linked below.</p>
+Explore <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" rel="noopener nofollow" target="_blank">MOE Schoolbag</a> as
+well as the news articles linked below to see how schools are nurturing
+stewards of the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Food digester" src="/images/Culture and Community/Stock___2023___Mee_Toh_School_8.jpg">
 </div>
-<p><em>Photo from CEG, MOE</em>
-</p>
 <h4>News and Media Features:</h4>
 <ul>
 <li>
