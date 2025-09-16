@@ -65,13 +65,13 @@ schools&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>ESP strengthened by incorporating Singapore’s Sustainability Challenges
+<p>ESP is strengthened by incorporating Singapore’s Sustainability Challenges
 as themes&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Food sustainability is spotlighted, with resources on food sustainability
+<p>Spotlight on food sustainability, with resources on food sustainability
 education provided to schools&nbsp;&nbsp;</p>
 </li>
 </ul>
