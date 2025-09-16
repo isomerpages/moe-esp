@@ -116,5 +116,5 @@ education provided to schools&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><em>(to include timeline; once the details are agreed, to tap on temp staff’s assistance to draw a road map)&nbsp;</em>
+<p><em>Note: Once the details are agreed upon, Secy will work with a temp staff to design and draw a road map.&nbsp;</em>
 </p>
