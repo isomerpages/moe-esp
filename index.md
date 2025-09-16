@@ -17,9 +17,9 @@ sections:
       title: Nurturing Stewards of the Environment
       subtitle: Our Mission
       id: infobar
-      description: From primary to pre-university levels, the ESP inspires students,
-        teachers, and schools to learn and actively contribute to a sustainable
-        future.
+      description: From primary to pre-university, the Eco Stewardship Programme (ESP)
+        inspires students, teachers, and schools to learn and contribute to a
+        sustainable future.
       button: More about the ESP
       url: /what-is-the-esp/
   - infopic:
