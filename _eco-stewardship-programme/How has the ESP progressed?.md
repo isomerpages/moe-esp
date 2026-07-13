@@ -89,11 +89,11 @@ education provided to schools&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Spotlight on food sustainability continues</p>
-</li>
-<li>
 <p>Grant is launched for schools to develop environmental hubs for environmental
 education</p>
+</li>
+<li>
+<p>Spotlight on food sustainability continues</p>
 </li>
 </ul>
 </td>
@@ -110,6 +110,21 @@ education provided to schools&nbsp;</p>
 </li>
 <li>
 <p>3<sup>rd</sup> ESP Networking Session is conducted</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Inaugural ESP Brownbag Series is conducted</p>
+</li>
+<li>
+<p>Spotlight on energy sustainability continues</p>
 </li>
 </ul>
 </td>
