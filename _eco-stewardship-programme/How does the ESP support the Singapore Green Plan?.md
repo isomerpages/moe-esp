@@ -20,9 +20,9 @@ increasing ecological challenges, it is crucial to equip our students with
 the <strong>relevant knowledge, skills and dispositions</strong>, and foster
 in them <strong>a sense of agency and hope for the future,</strong> to address
 these issues.&nbsp;&nbsp;&nbsp;</p>
-<p>A well-structured Eco Stewardship Programme in our schools will foster
-a deep understanding of environmental interdependencies, cultivate responsible
-behaviours, and inspire innovative solutions for a sustainable future.&nbsp;By <strong>integrating sustainability concepts across curricula and daily school operations</strong>,
+<p>A well-structured ESP in our schools will foster a deep understanding
+of environmental interdependencies, cultivate responsible behaviours, and
+inspire innovative solutions for a sustainable future.&nbsp;By <strong>integrating sustainability concepts across curricula and daily school operations</strong>,
 we can create a holistic learning environment that nurtures eco-literacy
 and environmental stewardship.</p>
 <div class="isomer-image-wrapper">
