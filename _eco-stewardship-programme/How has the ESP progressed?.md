@@ -131,5 +131,5 @@ education provided to schools&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><em>Note: Once the details are agreed upon, Secy will work with a temp staff to design and draw a road map.&nbsp;</em>
+<p><em> a temp staff to design and draw a road map.&nbsp;</em>
 </p>
