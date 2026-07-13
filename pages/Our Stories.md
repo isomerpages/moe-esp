@@ -17,12 +17,20 @@ stewards of the environment.</p>
 <h4>News and Media Features:</h4>
 <ul>
 <li>
+<p><a href="https://www.schoolbag.edu.sg/story/serangoon-garden-secondary-school-cacao-trees/" rel="noopener nofollow" target="_blank">Growing cacao trees yielded not only chocolates, but also work opportunities for this school’s students </a>(Schoolbag,
+May 2026)</p>
+</li>
+<li>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/planting-rice-outreach-efforts-how-teens-are-going-green-at-school?ref=search-results" rel="noopener nofollow" target="_blank">Planting rice, outreach efforts: How teens are going green at school </a>(The
 Straits Times, Mar 2026)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/hydroponics-and-upcycling-projects-among-initiatives-recognised-at-school-green-awards?ref=search-results" rel="noopener nofollow" target="_blank">Hydroponics, upcycling projects among initiatives recognised at School Green Awards </a>(The
 Straits Times, Nov 2025)</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/story/green-lessons-from-a-teacher-work-attachment/" rel="noopener nofollow" target="_blank">Green lessons from a teacher work attachment </a>(Schoolbag,
+Jan 2025)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award<u> </u></a>(The
