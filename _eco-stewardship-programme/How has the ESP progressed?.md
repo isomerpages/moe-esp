@@ -131,5 +131,4 @@ education provided to schools&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><em> a temp staff to design and draw a road map.&nbsp;</em>
-</p>
+<p></p>
