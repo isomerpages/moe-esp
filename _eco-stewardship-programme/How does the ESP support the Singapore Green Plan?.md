@@ -9,7 +9,7 @@ description: ""
 a low-lying island state, Singapore is particularly vulnerable. While Singapore
 has long pursued sustainable development, there are <strong>renewed ambitions to secure a sustainable future for the next generation </strong>and
 make sustainability a defining characteristic of our country.&nbsp;The <strong>Singapore Green Plan 2030</strong> is
-a thus whole-of-nation movement to advance Singapore’s national agenda
+thus a whole-of-nation movement to advance Singapore’s national agenda
 on sustainable development. Find out more about the Singapore Green Plan
 <a href="https://www.greenplan.gov.sg/" class="Hyperlink SCXW211500271 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u>
 </a>.&nbsp;&nbsp;</p>
