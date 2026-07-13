@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>What does the ESP look like in schools?</h4>
-<p>While all schools are already on board theESP), each school’s ESP journey
+<p>While all schools are already on board the ESP, each school’s ESP journey
 is unique.&nbsp;This contributes to a rich educational landscape that offers
 students diverse opportunities to learn about sustainability. Explore
 <a href="https://www.schoolbag.edu.sg/story/from-abc-to-eco-growing-next-gen-eco-stewards/" rel="noopener nofollow" target="_blank">MOE Schoolbag</a>as well as the news articles linked below to see how
@@ -16,8 +16,8 @@ schools are nurturing stewards of the environment.</p>
 <h4>News and Media Features:</h4>
 <ul>
 <li>
-<p><a href="https://www.schoolbag.edu.sg/story/serangoon-garden-secondary-school-cacao-trees/" rel="noopener nofollow" target="_blank">Growing cacao trees yielded not only chocolates, but also work opportunities for this school’s students </a>(Schoolbag,
-May 2026)</p>
+<p><a href="https://www.schoolbag.edu.sg/story/serangoon-garden-secondary-school-cacao-trees/" rel="noopener nofollow" target="_blank">Growing cacao trees yielded not only chocolates, but also work opportunities for this school’s students </a>(MOE
+Schoolbag, May 2026)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/planting-rice-outreach-efforts-how-teens-are-going-green-at-school?ref=search-results" rel="noopener nofollow" target="_blank">Planting rice, outreach efforts: How teens are going green at school </a>(The
@@ -28,8 +28,8 @@ Straits Times, Mar 2026)</p>
 Straits Times, Nov 2025)</p>
 </li>
 <li>
-<p><a href="https://www.schoolbag.edu.sg/story/green-lessons-from-a-teacher-work-attachment/" rel="noopener nofollow" target="_blank">Green lessons from a teacher work attachment </a>(Schoolbag,
-Jan 2025)</p>
+<p><a href="https://www.schoolbag.edu.sg/story/green-lessons-from-a-teacher-work-attachment/" rel="noopener nofollow" target="_blank">Green lessons from a teacher work attachment </a>(MOE
+Schoolbag, Jan 2025)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award<u> </u></a>(The
