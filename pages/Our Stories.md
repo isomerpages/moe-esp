@@ -17,6 +17,13 @@ stewards of the environment.</p>
 <h4>News and Media Features:</h4>
 <ul>
 <li>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/planting-rice-outreach-efforts-how-teens-are-going-green-at-school?ref=search-results" rel="noopener nofollow" target="_blank">Planting rice, outreach efforts: How teens are going green at school </a>(The
+Straits Times, Mar 2026)</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
 <p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award<u> </u></a>(The
 Straits Times, May 2024)</p>
 </li>
