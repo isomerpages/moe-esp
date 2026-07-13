@@ -17,8 +17,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>MOE announces the Eco Stewardship Programme (ESP) as part of the Singapore
-Green Plan 2030&nbsp;</p>
+<p>MOE announces the ESP as part of the Singapore Green Plan 2030&nbsp;</p>
 </li>
 </ul>
 <ul>
