@@ -21,7 +21,8 @@ stewards of the environment.</p>
 Straits Times, Mar 2026)</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://www.straitstimes.com/singapore/hydroponics-and-upcycling-projects-among-initiatives-recognised-at-school-green-awards?ref=search-results" rel="noopener nofollow" target="_blank">Hydroponics, upcycling projects among initiatives recognised at School Green Awards </a>(The
+Straits Times, Nov 2025)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/2-students-from-yusof-ishak-secondary-win-2024-community-in-nature-school-award" rel="noopener nofollow" target="_blank">2 students from Yusof Ishak Secondary win 2024 Community in Nature Schools Award<u> </u></a>(The
